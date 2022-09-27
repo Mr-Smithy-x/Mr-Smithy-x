@@ -52,7 +52,7 @@ Unfinished
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/Mr-Smithyx/Mi-iOS">Mi (iOS)</a>
+<a href="https://github.com/Mr-Smithy-x/Mi-iOS">Mi (iOS)</a>
 </td>
 <td colspan="2">
 Swift
