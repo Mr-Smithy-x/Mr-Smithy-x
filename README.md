@@ -34,6 +34,20 @@ Based off GoldHen (Klog + Bin Uploader Protocol), Remote Package Installer, WebM
 </td>
 </tr>
 
+<tr>
+<td colspan="2">
+<a href="https://github.com/Mr-Smithy-x/Mi-iOS">Mi (iOS)</a>
+</td>
+<td colspan="2">
+Swift
+</td>
+<td colspan="2">
+A PS4 & PS3 iOS Tool
+</td>
+<td colspan="2">
+Same as Mi Android (Built with SwiftUI)
+</td>
+</tr>
 
 <tr>
 <td colspan="2">
@@ -50,23 +64,7 @@ Unfinished
 </td>
 </tr>
 
-<tr>
-<td colspan="2">
-<a href="https://github.com/Mr-Smithy-x/Mi-iOS">Mi (iOS)</a>
-</td>
-<td colspan="2">
-Swift
-</td>
-<td colspan="2">
-A PS4 & PS3 iOS Tool
-</td>
-<td colspan="2">
-Same as Mi Android (Built with SwiftUI)
-</td>
-</tr>
-
-
-  
+ 
 <tr>
 <td colspan="4">
 <em><samp>🎷 Patreon? <a href="https://www.patreon.com/Mr-Smithy-x">Find me</a></samp></em>
