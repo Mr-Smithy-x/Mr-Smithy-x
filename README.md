@@ -67,7 +67,7 @@ Unfinished
  
 <tr>
 <td colspan="4">
-<em><samp>🎷 Patreon? <a href="https://www.patreon.com/Mr-Smithy-x">Find me</a></samp></em>
+<em><samp>🎷 Patreon? <a href="https://www.patreon.com/mrsmithyx">Find me</a></samp></em>
 </td>
 
 <td colspan="2" rowspan="2">
