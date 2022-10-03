@@ -21,7 +21,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/Mr-Smithy-x/Mi">Mi</a>
+<a href="https://github.com/mitai-app/Mi-Android">Mi (Android)</a>
 </td>
 <td colspan="2">
 Kotlin, JavaScript
@@ -36,7 +36,7 @@ Based off GoldHen (Klog + Bin Uploader Protocol), Remote Package Installer, WebM
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/Mr-Smithy-x/Mi-iOS">Mi (iOS)</a>
+<a href="https://github.com/mitai/Mi-iOS">Mi (iOS)</a>
 </td>
 <td colspan="2">
 Swift
