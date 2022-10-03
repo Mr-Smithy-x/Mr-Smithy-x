@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td colspan="2">
+<td colspan="3">
 <strong><samp>Working on:</samp></strong>
 </td>
 <td colspan="2">
@@ -20,7 +20,7 @@
 </tr>
 
 <tr>
-<td colspan="2">
+<td colspan="3">
 <a href="https://github.com/mitai-app/Mi-Android">Mi (Android)</a>
 </td>
 <td colspan="2">
@@ -35,7 +35,7 @@ Based off GoldHen (Klog + Bin Uploader Protocol), Remote Package Installer, WebM
 </tr>
 
 <tr>
-<td colspan="2">
+<td colspan="3">
 <a href="https://github.com/mitai/Mi-iOS">Mi (iOS)</a>
 </td>
 <td colspan="2">
@@ -50,7 +50,7 @@ Same as Mi Android (Built with SwiftUI)
 </tr>
 
 <tr>
-<td colspan="2">
+<td colspan="3">
 <a href="https://github.com/Mr-Smithy-x/L30GameboyEmulator">Lambda 30</a>
 </td>
 <td colspan="2">
