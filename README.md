@@ -21,7 +21,7 @@
 
 <tr>
 <td colspan="3">
-<a href="https://github.com/mitai-app/Mi">Mi</a>
+<a href="https://github.com/mitai-app">Mi</a>
 </td>
 <td colspan="2">
 Kotlin, Swift, JavaScript
