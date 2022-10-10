@@ -21,31 +21,16 @@
 
 <tr>
 <td colspan="3">
-<a href="https://github.com/mitai-app/Mi-Android">Mi (Android)</a>
+<a href="https://github.com/mitai-app/Mi">Mi</a>
 </td>
 <td colspan="2">
-Kotlin, JavaScript
+Kotlin, Swift, JavaScript
 </td>
 <td colspan="2">
-A PS4 & PS3 Android Tool
+A PS4 & PS3 Android & iOS Tool
 </td>
 <td colspan="2">
 Based off GoldHen (Klog + Bin Uploader Protocol), Remote Package Installer, WebMan, CCAPI, PS3MAPI
-</td>
-</tr>
-
-<tr>
-<td colspan="3">
-<a href="https://github.com/mitai/Mi-iOS">Mi (iOS)</a>
-</td>
-<td colspan="2">
-Swift
-</td>
-<td colspan="2">
-A PS4 & PS3 iOS Tool
-</td>
-<td colspan="2">
-Same as Mi Android (Built with SwiftUI)
 </td>
 </tr>
 
