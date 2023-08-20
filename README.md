@@ -1,6 +1,6 @@
-### Hi my dear friends 👋
+### Welcome to my page 👋
 
-* **A developer learning to play the acoustic, an iOS & Android Engineer interested in AI/ML tech.**
+* **A developer learning iOS & Android Developement and interested in AI/ML tech.**
 
 <table>
 <tr>
