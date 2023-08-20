@@ -1,7 +1,6 @@
 ### Hi my dear friends 👋
 
 * **A developer learning to play the acoustic, an iOS & Android Engineer interested in AI/ML tech.**
-* **😎 ちょと日本語が分かる～～**
 
 <table>
 <tr>
