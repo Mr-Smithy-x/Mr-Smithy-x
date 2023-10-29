@@ -1,6 +1,6 @@
-### Welcome to my page 👋
+### Welcome
 
-* **A developer learning iOS & Android Development and interested in AI/ML tech.**
+* **iOS & Android Engineer interested in AI/ML tech.**
 
 <table>
 <tr>
